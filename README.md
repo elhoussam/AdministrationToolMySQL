@@ -14,5 +14,5 @@ Prerequisite
 
 Screenshot
 ----------
-![alt text](aide_files/presentation.png)
+![alt text](doc/aide_files/presentation.png)
 Enjoy.
