@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Administrateur/eclipse-workspace/PFE sqlserver/lib/miglayout15-swing.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrateur/eclipse-workspace/PFE sqlserver/lib/mysql-connector-java-5.1.48-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrateur/.m2/repository/me/elhoussam/utils/0.0.1-SNAPSHOT/utils-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Houssam/workspace/AdministrationToolMySQL/miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Houssam/workspace/AdministrationToolMySQL/sqljdbc41.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
